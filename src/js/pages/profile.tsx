@@ -4,7 +4,7 @@ import { StateType } from "../redux/reducer/profile";
 import styled from "styled-components";
 
 const Container = styled.div`
-
+    display: block;
 `;
 
 const NameTitle = styled.h2`

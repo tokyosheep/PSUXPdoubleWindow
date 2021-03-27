@@ -7,7 +7,7 @@ import styled from "styled-components";
 import { setName, setOccupation , setAge } from "../redux/actions/profileActions";
 
 const Container = styled.div`
-
+    display: block;
 `;
 
 const TextList = styled.ul`

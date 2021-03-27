@@ -32,7 +32,17 @@
       "preferredFloatingSize": {
         "width": 300,
         "height": 200
-      }
+      },
+      "commands": [
+        {
+          "id": "show_alert",
+          "label": {
+            "default": "Show Alert",
+            "en-US": "Show Alert (US)",
+            "es-ES": "Show Alert (ES)"
+          }
+        }
+      ]
     },
     {
       "type": "panel",
@@ -55,7 +65,17 @@
       "preferredFloatingSize": {
         "width": 300,
         "height": 200
-      }
+      },
+      "commands": [
+        {
+          "id": "show_alert",
+          "label": {
+            "default": "Show Alert",
+            "en-US": "Show Alert (US)",
+            "es-ES": "Show Alert (ES)"
+          }
+        }
+      ]
     }
   ]
 }
